@@ -1,0 +1,66 @@
+{
+  "expo": {
+    "name": "FACE DETECTION",
+    "slug": "face-detection",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo-sm.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 10000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "reactnative.expo.firebase.boilerplate",
+      "buildNumber": "1.0.0",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "gs://face-detection-d6b66.appspot.com/default/logo.png"
+      },
+      "userInterfaceStyle": "automatic"
+    },
+    "android": {
+      "package": "reactnative.expo.firebase.boilerplate",
+      "versionCode": 1,
+      "userInterfaceStyle": "automatic",
+      "permissions": [
+        "VIBRATE",
+        "CAMERA"
+      ],
+      "notification": {
+        "icon": "./assets/images/notification-icon.png",
+        "color": "#00ff00"
+      },
+      "useNextNotificationsApi": true
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "js",
+        "jsx",
+        "svg",
+        "ts",
+        "tsx"
+      ]
+    },
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "a9ad5622-b18f-42b4-bc28-e98f4110c434"
+      }
+    },
+    "owner": "abdullah.s29"
+  }
+}
