@@ -1,12 +1,11 @@
-# React Native Expo with Firebase V2
+# React Native Expo with Firebase
 
-- [Expo link](https://expo.io/@votepurchase/reactnative-expo-firebase-boilerplate-v2)
 
-<a href="https://www.buymeacoffee.com/votepurchase" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/abdullah124421" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Screens
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img1.jpg' width='80%'>
+<a href="https://ibb.co/V2mGRLS"><img src="https://i.ibb.co/SRrgb6n/Whats-App-Image-2023-07-01-at-18-06-07.jpg"></a>
 
 <img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img6.jpg' width='80%'>
 
