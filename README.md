@@ -5,9 +5,10 @@
 
 ## Screens
 
-<a href="https://ibb.co/V2mGRLS"><img src="https://i.ibb.co/SRrgb6n/Whats-App-Image-2023-07-01-at-18-06-07.jpg"></a>
-
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img6.jpg' width='80%'>
+<img src="https://i.ibb.co/SRrgb6n/Whats-App-Image-2023-07-01-at-18-06-07.jpg" style="width: 30%; height: 30%;" />
+<img src="https://i.ibb.co/Phb5c34/Whats-App-Image-2023-06-18-at-15-57-42.jpg" style="width: 30%; height: 30%;" />
+<img src="https://i.ibb.co/xGcXbZG/home.jpg" style="width: 30%; height: 30%;" />
+<img src="https://i.ibb.co/ckkmZqt/logs1.jpg" style="width: 30%; height: 30%;" />
 
 ## Requirements
 
@@ -56,12 +57,6 @@
 - Retrieving Expo push tokens and saving them to Firestore
 - State management by Jotai
 
-## Difference from v1
-
-[reactnative-expo-firebase-boilerplate v1](https://github.com/kiyohken2000/reactnative-expo-firebase-boilerplate)
-
-- use Context API
-- Adjustment style file
 
 ## How to use
 
@@ -72,9 +67,9 @@ Download zip or click "Use this template"
 or
 
 ```
-git clone https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2.git
-cd ReactNative-Expo-Firebase-Boilerplate-v2
-yarn install
+git clone https://github.com/Abdullah-129/REACT_NATIVE_EXPO_WITH_FIREBASE.git
+cd REACT_NATIVE_EXPO_WITH_FIREBASE
+npm install
 ```
 
 ### 2. Setting up Firebase
