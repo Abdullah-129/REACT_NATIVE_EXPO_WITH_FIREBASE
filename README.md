@@ -477,4 +477,4 @@ eas device:list
 
 ## Licence
 
-This project is available under the MIT license. See the [LICENSE](https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/LICENSE) file for more info.
+This project is available under the MIT license. See the [LICENSE](https://github.com/Abdullah-129/REACT_NATIVE_EXPO_WITH_FIREBASE/blob/main/LICENSE) file for more info.
