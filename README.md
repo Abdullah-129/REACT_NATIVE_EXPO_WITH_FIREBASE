@@ -88,7 +88,7 @@ npm install
 - Click on the second tab where it said "Sign-In method"
 - Enable all the Sign-in method you would like to enable. For now, we will enable the "Email/Password" option.
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img3.png' width='80%'>
+<img src="https://i.ibb.co/4MC2SqW/firebase.png">
 
 **Step 3: Configure Firebase Console Firestore**
 
@@ -97,7 +97,7 @@ npm install
 - Select the "Cloud Firestore location", click "Enable"
 - Create the "users" and "tokens" collections. An empty document is fine.
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img4.png' width='80%'>
+<img src="https://i.ibb.co/64FTRX6/firestore.png">
 
 ***Security Rules***
 
@@ -121,7 +121,7 @@ service cloud.firestore {
 - Create an empty "avatar" folder.
 - Upload the image file "icon.png" of your choice. This is the default icon for app users.
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img5.png' width='80%'>
+<img src="https://i.ibb.co/28DgJx5/hosting.png">
 
 ***Security Rules***
 
@@ -142,7 +142,7 @@ service firebase.storage {
 - Then give it a name, click "Register app".
 - It will show you the Firebase configuration, copy the SDK keys, we will use it in the next step.
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img2.png' width='80%'>
+<img src="https://i.ibb.co/KzLnfTS/config.png">
 
 **Step 6: Connect Firebase**
 
@@ -225,7 +225,6 @@ const removeStorage = async() => {
 
 - ### Toast & Notification
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img7.jpg' width='80%'>
 
 ```javascript
 // Toast
@@ -255,7 +254,6 @@ const onNotificationPress = async() => {
 
 - ### Snackbar
 
-<img src='https://github.com/kiyohken2000/ReactNative-Expo-Firebase-Boilerplate-v2/blob/master/__DELELE_ME__/img9.png' width='80%'>
 
 ```javascript
 import React, { useState } from 'react'
